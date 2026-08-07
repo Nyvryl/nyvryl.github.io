@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nyvryl&#39;s Blog</title>
+    <title>所有文章 - Nyvryl&#39;s Blog</title>
     <link>https://blog.nyvryl.com/posts/</link>
     <description>Nyvryl 的个人博客，记录学习过程、生活经历等内容。</description>
-    <generator>Hugo 0.163.3 &amp; FixIt v0.3.16</generator>
+    <generator>Hugo 0.164.0 &amp; FixIt v1.0.0-alpha</generator>
     <language>zh-CN</language>
     <managingEditor>Nyvryl@gmail.com (Nyvryl)</managingEditor>
     <webMaster>Nyvryl@gmail.com (Nyvryl)</webMaster>
     <copyright>Copyright © 2025 Nyvryl&#39;s Blog. All rights reserved.</copyright>
     <lastBuildDate>Thu, 13 Mar 2025 20:03:40 +0800</lastBuildDate>
-    <atom:link href="https://blog.nyvryl.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <atom:link href="https://blog.nyvryl.com/posts/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Hello World!</title>
       <link>https://blog.nyvryl.com/posts/hello-world/</link>
       <pubDate>Thu, 13 Mar 2025 20:03:40 +0800</pubDate><author>Nyvryl@gmail.com (Nyvryl)</author>
